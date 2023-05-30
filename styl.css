@@ -1,0 +1,101 @@
+html,body {
+    font-family: 'helvetica';
+    font-style: normal;
+    width: 1440px;
+    height: 500px;
+}
+
+#header {
+    background: #F1F3FF;
+}
+
+.header {
+    width: 1440px;
+    height: 266px;
+    left: 0px;
+    top: 0px;
+    background: #F1F3FF;
+}
+
+.orang {
+    position: relative;
+    left: 40%;
+    width: 374px;
+    height: 366px;
+}
+
+.mobil {
+    position: relative;
+    width: 704px;
+    height: 407px;
+}
+
+.judul {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%;
+
+}
+.p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 155%;
+}
+
+.judul2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#kotak {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C3C3C;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    position: relative;
+    bottom: 13%;
+    width: 75%;
+    padding: 30px 10px 7px 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+#hasil {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C3C3C;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    position: relative;
+    top: 90px;
+    width: 75%;
+    height: 145px;
+    padding: 20px 10px 10px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+#car {
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+.teks {
+    color: #8A8A8A;
+}
+.js {
+    font-family: 'Helvetica';
+    color: #8A8A8A;
+    margin-top: 7px;
+}
